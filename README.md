@@ -1,7 +1,7 @@
 # QRTL
 A universal uMod (Oxide) plugin to fix RTL languages like Hebrew and Arabic
 
-Currently worked on:
+Currently worked on:                                                                    
 • Fixing numbers with RTL languages                                                 
 • Allowing usage of English and RTL languages in the same sentence                                                     
 
